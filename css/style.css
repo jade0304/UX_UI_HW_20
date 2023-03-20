@@ -38,3 +38,7 @@
     width: 100px;
     padding: 20px;
 }
+
+.nav-item {
+    margin-left: 3em;
+}
